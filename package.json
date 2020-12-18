@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "start:dev" : "nodemon server.js"
+    "start:dev": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +20,13 @@
     "express": "^4.17.1",
     "knex": "^0.21.13",
     "pg": "^8.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pathuloy/faceDetectServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pathuloy/faceDetectServer/issues"
+  },
+  "homepage": "https://github.com/Pathuloy/faceDetectServer#readme"
 }
